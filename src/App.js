@@ -40,7 +40,7 @@ class App extends Component {
                         +
                     </div>
                     <hr />
-
+                    <div>F12 and open console</div>
                     <Route
                         exact
                         path="/"
